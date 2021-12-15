@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<LandXML date="27-03-2021" time="18:19:28" version="1.2" language="English" readOnly="false">
+	<Units>
+		<Metric areaUnit="squareMeter" linearUnit="meter" volumeUnit="cubicMeter" temperatureUnit="celsius" pressureUnit="milliBars" diameterUnit="millimeter" angularUnit="decimal degrees" directionUnit="decimal degrees"></Metric>
+	</Units>
+	<Project name="Punkt_PZ"></Project>
+	<Application name="Profil Koordynator" desc="Koordynator for WebViewer" manufacturer="DGSI Sp. z o.o." version="8" manufacturerURL="www.dgsi.com.pl" timeStamp="27-03-2021T18:19:28"></Application>
+	<PipeNetworks>
+		<PipeNetwork name="Projekt nr 1" pipeNetType="storm" desc="" alignmentRef="">
+			<Layers>
+				<Layer.Definicja Numer="0" Nazwa="0" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="1" Nazwa="Teren_proj" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="2" Nazwa="Teren_istn" Color="8" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="3" Nazwa="Warstwy" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="4" Nazwa="Odwierty" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="5" Nazwa="Wezly" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="6" Nazwa="Armatura" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="7" Nazwa="Budynki" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="8" Nazwa="Odcinki" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="9" Nazwa="Uzbr_podz" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="10" Nazwa="Uzbr_nadz" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="11" Nazwa="Rury_ochr" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="12" Nazwa="Podsypki" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="13" Nazwa="Dren" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="14" Nazwa="Osie" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="15" Nazwa="Linie_tabeli" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="16" Nazwa="Liczby" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="17" Nazwa="Ozn_warstwy" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="18" Nazwa="Ozn_odwierty" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="19" Nazwa="Opis_PZ" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="20" Nazwa="Opis_Arm" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="21" Nazwa="Opis_wl" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="22" Nazwa="Opis_skrz" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="23" Nazwa="Opis_uzbr_p" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="24" Nazwa="Opis_uzbr_n" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="25" Nazwa="Linie_opisowe" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="26" Nazwa="Teksty" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="27" Nazwa="Wymiary" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+				<Layer.Definicja Numer="28" Nazwa="Linie_odn" Color="0" RodzLinii="CONTINUOUS">
+				</Layer.Definicja>
+			</Layers>
+			<Drawing>
+				<Item.OuterCircle Specification="">
+					<Handle Value="00000001"/>
+					<Layer Value="5"/>
+					<Center> -5692.100000 -1432.000000</Center>
+					<Promien> 60.00000</Promien>
+				</Item.OuterCircle>
+				<Item.OuterCircle Specification="">
+					<Handle Value="00000002"/>
+					<Layer Value="5"/>
+					<Center> -5692.100000 -1432.000000</Center>
+					<Promien> 72.00000</Promien>
+				</Item.OuterCircle>
+				<Item.OuterLine Diameter="0.00000" Specification="">
+					<Handle Value="00000003"/>
+					<Layer Value="28"/>
+					<P1> -6384.100000 -1390.230855 0.000000</P1>
+					<P2> -5872.100000 -1390.230855 0.000000</P2>
+				</Item.OuterLine>
+				<Item.OuterText Specification="">
+					<Handle Value="00000004"/>
+					<Layer Value="26"/>
+					<Wymiar Hf="100.00000" Sf="0.80000"/>
+					<Aligment Value="2"/>
+					<Start> -5872.100000 -1370.230855</Start>
+					<Text Tekst="X=-56.92"/>
+				</Item.OuterText>
+				<Item.OuterText Specification="">
+					<Handle Value="00000005"/>
+					<Layer Value="26"/>
+					<Wymiar Hf="100.00000" Sf="0.80000"/>
+					<Aligment Value="2"/>
+					<Start> -5872.100000 -1510.230855</Start>
+					<Text Tekst="Y=-14.32"/>
+				</Item.OuterText>
+				<Item.OuterText Specification="">
+					<Handle Value="00000006"/>
+					<Layer Value="26"/>
+					<Wymiar Hf="100.00000" Sf="0.80000"/>
+					<Aligment Value="2"/>
+					<Start> -5872.100000 -1240.230855</Start>
+					<Text Tekst="-1.50"/>
+				</Item.OuterText>
+				<Item.OuterText Specification="">
+					<Handle Value="00000007"/>
+					<Layer Value="26"/>
+					<Wymiar Hf="100.00000" Sf="0.80000"/>
+					<Aligment Value="2"/>
+					<Start> -5872.100000 -1100.230855</Start>
+					<Text Tekst="0.00"/>
+				</Item.OuterText>
+				<Item.OuterText Specification="">
+					<Handle Value="00000008"/>
+					<Layer Value="19"/>
+					<Wymiar Hf="200.00000" Sf="0.80000"/>
+					<Aligment Value="2"/>
+					<Start> -6232.100000 -1200.230855</Start>
+					<Text Tekst="S1"/>
+				</Item.OuterText>
+				<Item.OuterPolyLine Diameter="0.00000" Specification="">
+					<Handle Value="00000009"/>
+					<Layer Value="28"/>
+					<Start> -5692.100000 -1432.000000 0.000000</Start>
+					<Vertex> -5872.100000 -1120.230855 0.000000</Vertex>
+					<End> -6196.100000 -1120.230855 0.000000</End>
+				</Item.OuterPolyLine>
+			</Drawing>
+		</PipeNetwork>
+	</PipeNetworks>
+</LandXML>
