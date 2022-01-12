@@ -30,7 +30,7 @@ function FileInput(props) {
         project: {
           tag: "Project",
           count: 1,
-          requiredAttr: ["name", "test"],
+          requiredAttr: ["name"],
         },
         application: {
           tag: "Application",
